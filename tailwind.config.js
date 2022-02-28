@@ -3,6 +3,10 @@ module.exports = {
 	darkMode: false,
 	theme: {
 		extend: {},
+		container: {
+			center: true,
+			padding: "2rem",
+		},
 	},
 	variants: {
 		extend: {},
