@@ -13,6 +13,7 @@ import moment from "moment";
 export default {
     name: "DataTitle",
     props: ["text", "dataDate"],
+
     computed: {
         timestamp: function () {
             return moment(this.dataDate).format("Do MMMM YYYY");
