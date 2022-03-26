@@ -1,5 +1,9 @@
 # vue-covid-tracker
 
+# Preview Link
+
+vue-covid-tracker: https://nervous-goldstine-1a6bac.netlify.app/
+
 ## Project setup
 ```
 npm install
